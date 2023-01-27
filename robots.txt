@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://simonczech.com/sitemap.xml
